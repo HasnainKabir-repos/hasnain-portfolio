@@ -26,11 +26,11 @@ export const stack: { when: string; title: string; text: string }[] = [
   {
     when: "2021 – 2025",
     title: "B.Sc. in Software Engineering, Islamic University of Technology",
-    text: "CGPA 3.88/4.0, graduated with honors. Operating Systems was the course that set my direction; class representative all four years.",
+    text: "CGPA 3.88/4.0, graduated with honors.",
   },
   {
     when: "Jun – Sep 2024",
     title: "Software Engineer Intern, Kaz Software",
-    text: "Core modules of RegPlus, a tax and regulation platform; cut load times with containerized microfrontends, SQL tuning and async API calls.",
+    text: "",
   },
 ];
